@@ -2,7 +2,7 @@ at8236\system_stm32f4xx.o: ../Core/Src/system_stm32f4xx.c
 at8236\system_stm32f4xx.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
 at8236\system_stm32f4xx.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f401xc.h
 at8236\system_stm32f4xx.o: ../Drivers/CMSIS/Include/core_cm4.h
-at8236\system_stm32f4xx.o: E:\Keil 5          MDK  C51\ARM\ARMCC\Bin\..\include\stdint.h
+at8236\system_stm32f4xx.o: D:\keil\keil5\ARM\ARMCC\Bin\..\include\stdint.h
 at8236\system_stm32f4xx.o: ../Drivers/CMSIS/Include/cmsis_version.h
 at8236\system_stm32f4xx.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 at8236\system_stm32f4xx.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
@@ -14,7 +14,7 @@ at8236\system_stm32f4xx.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc
 at8236\system_stm32f4xx.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
 at8236\system_stm32f4xx.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
 at8236\system_stm32f4xx.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-at8236\system_stm32f4xx.o: E:\Keil 5          MDK  C51\ARM\ARMCC\Bin\..\include\stddef.h
+at8236\system_stm32f4xx.o: D:\keil\keil5\ARM\ARMCC\Bin\..\include\stddef.h
 at8236\system_stm32f4xx.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 at8236\system_stm32f4xx.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
 at8236\system_stm32f4xx.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h

@@ -1,4 +1,4 @@
---cpu=Cortex-M4.fp
+--cpu=Cortex-M4.fp.sp
 "at8236\startup_stm32f401xc.o"
 "at8236\main.o"
 "at8236\gpio.o"
@@ -28,6 +28,9 @@
 "at8236\encoder.o"
 "at8236\pid.o"
 "at8236\usart_set.o"
+"at8236\delay.o"
+"at8236\ioi2c.o"
+"at8236\wit_c_sdk.o"
 --library_type=microlib --strict --scatter "at8236\at8236.sct"
 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers

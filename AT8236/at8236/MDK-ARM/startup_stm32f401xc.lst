@@ -726,13 +726,13 @@ ARM Macro Assembler    Page 12
   374 0000001C                 END
               00000000 
               00000000 
-Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp --apcs=int
-erwork --depend=at8236\startup_stm32f401xc.d -oat8236\startup_stm32f401xc.o -I.
-\RTE\_at8236 -I"E:\Keil 5          MDK  C51\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core
-\Include" -I"E:\Keil 5          MDK  C51\ARM\PACK\Keil\STM32F4xx_DFP\2.15.0\Dri
-vers\CMSIS\Device\ST\STM32F4xx\Include" --predefine="__MICROLIB SETA 1" --prede
-fine="__UVISION_VERSION SETA 525" --predefine="_RTE_ SETA 1" --predefine="STM32
-F401xC SETA 1" --list=startup_stm32f401xc.lst startup_stm32f401xc.s
+Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp.sp --apcs=
+interwork --depend=at8236\startup_stm32f401xc.d -oat8236\startup_stm32f401xc.o 
+-I.\RTE\_at8236 -ID:\keil\packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include -ID:\keil\pa
+cks\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include --prede
+fine="__MICROLIB SETA 1" --predefine="__UVISION_VERSION SETA 531" --predefine="
+_RTE_ SETA 1" --predefine="STM32F401xC SETA 1" --predefine="_RTE_ SETA 1" --lis
+t=startup_stm32f401xc.lst startup_stm32f401xc.s
 
 
 
